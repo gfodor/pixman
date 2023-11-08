@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-#include <config.h>
+#include <config-pix.h>
 #include "../test/utils.h"
 #include "gtk-utils.h"
 

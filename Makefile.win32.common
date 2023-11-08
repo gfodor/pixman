@@ -22,7 +22,7 @@ CFG_CFLAGS  = -MD -O2
 CFG_LDFLAGS =
 endif
 
-# Package definitions, to be used instead of those provided in config.h
+# Package definitions, to be used instead of those provided in config-pix.h
 PKG_CFLAGS  = -DPACKAGE=$(LIBRARY) -DPACKAGE_VERSION="" -DPACKAGE_BUGREPORT=""
 
 BASE_CFLAGS = -nologo -I. -I$(top_srcdir) -I$(top_srcdir)/pixman

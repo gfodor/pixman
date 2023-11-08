@@ -24,7 +24,7 @@
  * Author: Soren Sandmann (soren.sandmann@gmail.com)
  */
 #ifdef HAVE_CONFIG_H
-#include <config.h>
+#include <config-pix.h>
 #endif
 
 #include <stdlib.h>
